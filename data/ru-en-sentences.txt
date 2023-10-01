@@ -1,0 +1,422 @@
+Я чита́ю кни́гу.|I am reading a book.
+Он люби́т ко́фе.|He loves coffee.
+Она́ идёт в магази́н.|She is going to the store.
+Мы живём в большо́м доме́.|We live in a big house.
+Де́ти игра́ют на у́лице.|Children are playing on the street.
+Они́ приходя́т завтра́.|They are coming tomorrow.
+Соба́ка лежи́т на полу́.|The dog lies on the floor.
+Он смотрит фильм.|He is watching a film.
+Да́нные верны́е.|The data is correct.
+Кто там?|Who's there?
+Я иду́ на ра́боту.|I am going to work.
+Вода́ в реке́ холо́дная.|The water in the river is cold.
+Он управля́ет фи́рмой.|He manages the firm.
+Небо́ краси́вое сегодня́.|The sky is beautiful today.
+Я дума́ю о тебе́.|I am thinking about you.
+Мы учи́м ру́сский язы́к.|We are learning the Russian language.
+Она́ часто́ забыва́ет ключи́.|She often forgets her keys.
+Сколько́ это сто́ит?|How much does it cost?
+Я хочу́ письмо́ от неё.|I want a letter from her.
+Он реши́л уйти́.|He decided to leave.
+Мы идём в парк.|We are going to the park.
+Они́ гото́вы к уроку́.|They are ready for the lesson.
+Где моя́ кни́га?|Where is my book?
+Она́ понима́ет меня́.|She understands me.
+Я не могу́ это сде́лать.|I can't do this.
+Дети́ любя́т игра́ть.|Children love to play.
+Мне́ нра́вится этот фильм.|I like this film.
+Они́ живу́т в Росси́и.|They live in Russia.
+Я ви́жу де́рево.|I see a tree.
+На столе́ лежит письмо́.|There's a letter on the table.
+Это не́большой магази́н.|It's a small store.
+Он у меня́ в друзья́х.|He is my friend.
+Как тебя́ зову́т?|What is your name?
+Я приходи́ть домо́й поздно́.|I come home late.
+Где твоя́ сумка́?|Where is your bag?
+Де́ло заверши́лось хорошо́.|The case ended well.
+Я уме́ю писа́ть сти́хи.|I can write poems.
+Мы идём на конце́рт.|We are going to a concert.
+Это её люби́мое пла́тье.|This is her favorite dress.
+Я хочу́ купи́ть пальто́.|I want to buy a coat.
+Небо́ полно́ звёзд.|The sky is full of stars.
+Где мои́ очки́?|Where are my glasses?
+Он покупа́ет газе́ту кажды́й день.|He buys a newspaper every day.
+Она́ прекра́сно танцу́ет.|She dances beautifully.
+Это интере́сное заня́тие.|It's an interesting activity.
+Моя́ семья́ вели́ка.|My family is big.
+Мы всегда́ вме́сте.|We are always together.
+Я чита́ю это письмо́.|I am reading this letter.
+Он живёт на у́лице Пу́шкина.|He lives on Pushkin Street.
+Она́ очень краси́ва.|She is very beautiful.
+Мне́ нужна́ эта кни́га.|I need this book.
+Где твой телефо́н?|Where is your phone?
+Он едет в Москву́.|He is going to Moscow.
+Это мой дом.|This is my house.
+Они́ приходя́т на у́рок.|They come to the lesson.
+Я не могу́ забы́ть его́.|I can't forget him.
+Она́ гото́вит у́жин.|She is preparing dinner.
+Где моя́ ко́шка?|Where is my cat?
+Он люби́т её.|He loves her.
+Я хочу́ путеше́ствовать.|I want to travel.
+Это его́ реше́ние.|It's his decision.
+Она́ смеётся.|She is laughing.
+Мы игра́ем в футбо́л.|We play football.
+Это их маши́на.|This is their car.
+Я иду́ домо́й.|I am going home.
+Он учит ру́сский язы́к.|He is learning the Russian language.
+Это моя́ работа́.|This is my job.
+Они́ идут в кино́.|They are going to the cinema.
+Я ви́жу тебя́.|I see you.
+Я слы́шу мо́ре.|I hear the sea.
+Он работа́ет в компа́нии.|He works at a company.
+Это ваша кни́га?|Is this your book?
+Москва́ — большо́й город.|Moscow is a big city.
+Ты видел мой дом?|Have you seen my house?
+Сколько стоит э́та обу́вь?|How much does this footwear cost?
+Она читает росси́йский журна́л.|She is reading a Russian magazine.
+Что это за вопро́с?|What kind of question is this?
+Она живёт в Америке.|She lives in America.
+Её брат счита́ет это интере́сным.|Her brother considers it interesting.
+Неде́ля была длинной.|The week was long.
+Почему он не звонит?|Why isn't he calling?
+У меня мно́го друзе́й.|I have many friends.
+Мы игра́ем в игру́.|We are playing a game.
+Жена́ готовит обед на ку́хне.|The wife is preparing lunch in the kitchen.
+Он пыта́ется понять ситуа́цию.|He is trying to understand the situation.
+Мне́ нужно покупа́ть хлеб.|I need to buy bread.
+Мальчи́к игра́ет на у́лице.|The boy is playing on the street.
+Ты часто посеща́ешь Москву́?|Do you visit Moscow often?
+Я чувствую себя лу́чше.|I feel better.
+Мы были в рестора́не вчера.|We were at the restaurant yesterday.
+Сын хочет новы́й компью́тер.|The son wants a new computer.
+Папа читает газе́ту.|Dad is reading the newspaper.
+Мама́ готовит у́жин.|Mom is preparing dinner.
+Я хочу идти в кино́.|I want to go to the cinema.
+Это ваша соба́ка?|Is this your dog?
+Она преподава́тель в шко́ле.|She is a teacher at school.
+Я не могу найти мои́ ключи́.|I can't find my keys.
+Он живёт в Росси́и.|He lives in Russia.
+Мы гуля́ли в парке́.|We walked in the park.
+Это была долга́я ночь.|It was a long night.
+Я не понима́ю этот вопро́с.|I don't understand this question.
+Как ты себя́ чувству́ешь?|How do you feel?
+Он любит слу́шать му́зыку.|He likes to listen to music.
+Мы идем в теа́тр.|We are going to the theater.
+Он учи́тся в университе́те.|He studies at the university.
+Ты был на конце́рте?|Were you at the concert?
+Она купила новое пла́тье.|She bought a new dress.
+Мы плани́руем путеше́ствие.|We are planning a trip.
+Это её первы́й раз в Москве́.|It's her first time in Moscow.
+Я чита́ю кни́гу об иску́сстве.|I'm reading a book about art.
+Он игра́ет на гита́ре.|He plays the guitar.
+Ты видел мою́ новую́ маши́ну?|Have you seen my new car?
+Она занима́ется танца́ми.|She does dancing.
+Я люблю́ этот го́род.|I love this city.
+Мы посети́ли музе́й вчера.|We visited the museum yesterday.
+Он хороши́й друг.|He is a good friend.
+Я не зна́ю этот ответ.|I don't know this answer.
+Она была́ здесь час на́зад.|She was here an hour ago.
+Мы едем на мо́ре.|We are going to the sea.
+Он работа́ет в ба́нке.|He works in a bank.
+Это твои́ очки́?|Are these your glasses?
+Москва́ — столи́ца Росси́и.|Moscow is the capital of Russia.
+Где мои́ ключи́?|Where are my keys?
+Она учителя́ в шко́ле.|She is a teacher at school.
+Мне́ нужно больше́ вре́мени.|I need more time.
+Ма́ма готовит обед.|Mom is preparing lunch.
+Э́то твоя́ маши́на?|Is this your car?
+Я живу́ в Москве́.|I live in Moscow.
+Мы идем в кино́ сегодня́.|We are going to the cinema today.
+Я не понима́ю этого́ языка́.|I don't understand this language.
+Он хочет новы́й телефо́н.|He wants a new phone.
+Сколько это́ стоит?|How much does this cost?
+Я люблю́ своего́ брата.|I love my brother.
+Ты видел моего́ кота́?|Have you seen my cat?
+Она танцу́ет очень́ хорошо́.|She dances very well.
+Я буду домо́й вечером.|I will be home in the evening.
+Он часто игра́ет в футбо́л.|He often plays football.
+Мне́ нра́вится э́та кни́га.|I like this book.
+Они живут в большо́м доме́.|They live in a big house.
+Я работа́ю кажды́й день.|I work every day.
+Он учи́т ру́сский язы́к.|He is learning the Russian language.
+Мы путешеству́ем по Евро́пе.|We are traveling around Europe.
+Ты занима́ешься спорто́м?|Do you play sports?
+Она улета́ет завтра́.|She is flying out tomorrow.
+Мы едем на конце́рт.|We are going to a concert.
+Он зна́ет мно́го языко́в.|He knows many languages.
+Я видел её в магази́не.|I saw her in the store.
+Мы встре́тимся в кафе́.|We will meet at the cafe.
+Я хочу́ новые́ боти́нки.|I want new boots.
+Она живёт на тре́тьем э́таже.|She lives on the third floor.
+Мы учимся в одно́й шко́ле.|We study at the same school.
+Он приезжа́ет на следую́щей неделе́.|He is arriving next week.
+Я хочу́ е́ще кофе.|I want more coffee.
+Они путешеству́ют вме́сте.|They travel together.
+Он купи́л новы́й автомоби́ль.|He bought a new car.
+Мне́ нужно́ идти́.|I need to go.
+Я уста́л после́ работы.|I'm tired after work.
+Мы игра́ем в шахма́ты.|We play chess.
+Она очень́ краси́вая.|She is very beautiful.
+Я буду́ в Москве́ на следую́щей неделе́.|I will be in Moscow next week.
+Он живёт рядом.|He lives nearby.
+Мы едим в рестора́не.|We are eating in the restaurant.
+Я люблю́ свою́ семью́.|I love my family.
+Они идут в парк.|They are going to the park.
+Ты у́же завтрака́л?|Have you had breakfast yet?
+Я забы́л свои́ очки́.|I forgot my glasses.
+Она посеща́ет Япо́нию.|She visits Japan.
+Мы смотрим фи́льм.|We are watching a movie.
+Он хочет купи́ть новы́й дом.|He wants to buy a new house.
+Я слу́шаю му́зыку.|I listen to music.
+Он смотре́ть в окно́.|He looks out of the window.
+Она учи́тся в шко́ле.|She studies at school.
+На у́лице снова́ дождь.|It's raining outside again.
+Я чита́ю интере́сную кни́гу.|I'm reading an interesting book.
+Вечером мы идём в кино.|We're going to the cinema in the evening.
+Ты виде́л этот фильм?|Have you seen this movie?
+Мама гото́вит у́жин на ку́хне.|Mom is cooking dinner in the kitchen.
+Он живёт в Москве́.|He lives in Moscow.
+Они идут в парк.|They're going to the park.
+У тебя есть вопро́с?|Do you have a question?
+Мы любим путеше́ствовать.|We love to travel.
+Она игра́ет на гита́ре.|She plays the guitar.
+Он работа́ет в компа́нии.|He works at a company.
+Я хочу́ пить.|I want to drink.
+В комна́те тихо́.|It's quiet in the room.
+Я не слы́шал эту песню.|I haven't heard this song.
+Ты зна́ешь этого челове́ка?|Do you know this person?
+Он чита́ет журна́л.|He's reading a magazine.
+Она люби́т ко́фе.|She loves coffee.
+Мы идём в рестора́н.|We're going to a restaurant.
+Я не понима́ю тебя́.|I don't understand you.
+Он люби́т петь.|He loves to sing.
+Она занима́ется спо́ртом.|She does sports.
+У тебя́ краси́вые глаза́.|You have beautiful eyes.
+Он из Аме́рики.|He's from America.
+Я хочу́ есть.|I want to eat.
+Они смотря́т телеви́зор.|They're watching TV.
+Ты был в Росси́и?|Have you been to Russia?
+Я чувствую́ себя́ хорошо́.|I feel good.
+Он пьёт ви́но.|He drinks wine.
+Мы живём здесь.|We live here.
+Она танцу́ет.|She dances.
+Он игра́ет в футбо́л.|He plays football.
+Я не могу́ спать.|I can't sleep.
+Они едут на маши́не.|They're driving a car.
+Я виде́л её вчера́.|I saw her yesterday.
+Ты игра́ешь на пиани́но?|Do you play the piano?
+Он ест я́блоко.|He's eating an apple.
+Мы идём на рабо́ту.|We're going to work.
+Ты был на конце́рте?|Have you been to the concert?
+Она смотри́т кни́гу.|She's looking at a book.
+Он люби́т чита́ть.|He loves to read.
+Мы смотрим фильм.|We're watching a movie.
+Ты говори́шь по-англи́йски?|Do you speak English?
+Я ходи́л в магази́н.|I went to the store.
+Они пьют ко́фе.|They drink coffee.
+Ты слу́шаешь радио́?|Are you listening to the radio?
+Она пла́чет.|She's crying.
+Он смеётся.|He's laughing.
+Мы игра́ем в карты́.|We're playing cards.
+Я хочу́ кни́гу.|I want a book.
+Они танцу́ют вечером.|They dance in the evening.
+Он пи́шет письмо́.|He's writing a letter.
+Я живу́ в Москве́.|I live in Moscow.
+Они говоря́т по-ру́сски.|They speak Russian.
+Ты идёшь на у́рок?|Are you going to the lesson?
+Она чита́ет статью́.|She's reading an article.
+Он смотрит телеви́зор.|He's watching TV.
+Мы слу́шаем му́зыку.|We listen to music.
+Я люблю́ путеше́ствовать.|I love to travel.
+Она пьёт чай.|She drinks tea.
+Он смотрит вдаль.|He looks into the distance.
+Мы игра́ем в теа́тре.|We're playing in the theater.
+Ты говори́шь по-испа́нски?|Do you speak Spanish?
+Я чувствую́ себя́ уста́вшим.|I feel tired.
+Они идут в му́зей.|They're going to the museum.
+Она игра́ет на гита́ре.|She plays the guitar.
+Он пьёт ко́фе.|He drinks coffee.
+Мы смотрим кино.|We watch movies.
+Дело в том.|The thing is.
+Что-то мне нужно.|I need something.
+Приходи со мной.|Come with me.
+Например, так.|For example, like this.
+Получается сложно.|It's getting complicated.
+Жизнь прекрасна.|Life is beautiful.
+Над нами небо.|Above us is the sky.
+Общий интерес.|Common interest.
+Лежит на столе.|It's lying on the table.
+Занимает много времени.|It takes a lot of time.
+Документ на руках.|The document is in hand.
+Сообщаю вам новость.|I'm giving you news.
+Знание важно.|Knowledge is important.
+Небольшой котенок.|A small kitten.
+Восхождение на гору.|Climbing the mountain.
+Далее следует объявление.|Next comes an announcement.
+Самый лучший день.|The best day.
+Даже не думай.|Don't even think about it.
+Больше информации.|More information.
+Здесь тихо.|It's quiet here.
+Глаза сияют.|Eyes are shining.
+Приходится работать.|Have to work.
+Результат важен.|The result matters.
+Улица живописная.|The street is picturesque.
+В этой точке.|At this point.
+Готов к действию.|Ready for action.
+Стена высокая.|The wall is high.
+Интерес к искусству.|Interest in art.
+Необходимое оборудование.|Necessary equipment.
+Определить местоположение.|Determine the location.
+Наверное, это так.|Probably, that's how it is.
+Дерево растет.|The tree is growing.
+Фирма успешна.|The company is successful.
+Что ты делаешь?|What are you doing?
+От себя ничего не скрывай.|Don't hide anything from yourself.
+В этом случае.|In this case.
+Является фактом.|It's a fact.
+Земля круглая.|The Earth is round.
+Всякий раз разный.|Each time is different.
+Данные точные.|The data is accurate.
+Жизнь полна сюрпризов.|Life is full of surprises.
+Магазин открыт.|The store is open.
+Апрель наступил.|April has come.
+Красивый вид.|Beautiful view.
+Уровень образования.|Level of education.
+Пол сделан из дерева.|The floor is made of wood.
+Большинство людей.|The majority of people.
+Фильм интересный.|The movie is interesting.
+Разговор продолжается.|The conversation continues.
+Обучение важно.|Education is important.
+В классе много студентов.|There are many students in the class.
+Минута пролетела.|A minute has passed.
+Смогу помочь.|I'll be able to help.
+Дорога долгая.|The road is long.
+Существует множество вариантов.|There are many options.
+Президент страны.|The president of the country.
+Производство товаров.|Production of goods.
+Пол мокрый.|The floor is wet.
+Больший объем.|A larger volume.
+Пальто теплое.|The coat is warm.
+Давайте поговорим.|Let's talk.
+Система работает.|The system is working.
+Группа студентов.|A group of students.
+Письмо написано.|The letter is written.
+Движение вперед.|Movement forward.
+Целый день.|The whole day.
+Директор компании.|The company's director.
+Раз один.|Once upon a time.
+Понимаю ситуацию.|I understand the situation.
+Хотя я устал.|Even though I'm tired.
+Возвращаюсь домой.|I'm coming back home.
+Пока не поздно.|Before it's too late.
+Полный список.|A full list.
+Собственный дом.|My own house.
+Любовь к природе.|Love for nature.
+Читаю книгу.|I'm reading a book.
+Скоро начнется.|It will start soon.
+Посмотреть фильм.|Watch a movie.
+Речь идет о чем-то важном.|The talk is about something important.
+Рядом с парком.|Next to the park.
+Немного времени.|A little time.
+Мало знаю.|I don't know much.
+Кто пришел?|Who came?
+Где мой ключ?|Where is my key?
+Да, это так.|Yes, that's right.
+Весь мир.|The whole world.
+Вода чистая.|The water is clean.
+Наш дом.|Our house.
+Вот он.|Here it is.
+Моя машина.|My car.
+Их семья.|Their family.
+Оба варианта.|Both options.
+Ваш ответ.|Your answer.
+Куда идешь?|Where are you going?
+Который день светло.|Every day is bright.
+Чтобы жить полноценно, нужно знания.|To live fully, you need knowledge.
+Дело важное требует времени.|Important matters require time.
+Приходи́ть сюда каждый вечер.|Come here every evening.
+Например, учиться или работать.|For example, study or work.
+Получается, мы смогли достичь цели.|It turns out we've achieved the goal.
+Жизнь полна неожиданностей.|Life is full of surprises.
+Над горами ясное небо.|Above the mountains, the sky is clear.
+Общий интерес объединяет нас.|Common interest unites us.
+На пляже лежали два друзья.|Two friends were lying on the beach.
+Заниматься спортом — это важно.|Engaging in sports is important.
+Этот документ необходим для работы.|This document is necessary for work.
+Сообщайте мне об изменениях.|Inform me about the changes.
+Знание - это ключ к успеху.|Knowledge is the key to success.
+В этом маленьком городе есть гора.|There is a mountain in this small town.
+Дальше, чем я думал, лес.|The forest is further than I thought.
+Самый красивый цветок в саду.|The most beautiful flower in the garden.
+Даже плохая погода не помешает.|Even bad weather won't hinder.
+Более важный момент нужно рассмотреть.|We need to consider a more important aspect.
+Здесь можно увидеть уникальную природу.|Here you can see unique nature.
+Глаза говорят больше слов.|Eyes speak more than words.
+Время приходится использовать разумно.|Time must be used wisely.
+Результат твоих усилий виден.|The result of your efforts is visible.
+На улице тихо и спокойно.|It's calm and quiet outside.
+Важно иметь точку зрения.|It's important to have a point of view.
+Готовый обед на столе.|Ready lunch on the table.
+Стена была окрашена в голубой цвет.|The wall was painted blue.
+Интерес к искусству важен для развития.|Interest in art is important for development.
+Необходимы знания для успешного решения.|Knowledge is necessary for successful resolution.
+Определяйте приоритеты в своей жизни.|Determine priorities in your life.
+Наверное, это была простая ошибка.|Probably, it was a simple mistake.
+Возле дома растет большое дерево.|There is a big tree growing near the house.
+Фирма занимается разработкой программ.|The company is engaged in program development.
+Что ты думаешь об этом?|What do you think about this?
+От него исходит сила и уверенность.|Strength and confidence emanate from him.
+Себя надо любить таким, какой ты есть.|You need to love yourself as you are.
+В этом случае, лучше не рисковать.|In this case, it's better not to take risks.
+Является ли это твоим домом?|Is this your home?
+Земля вокруг нас красива и разнообразна.|The land around us is beautiful and diverse.
+Всякий имеет право на мнение.|Everyone has the right to an opinion.
+Данные подтверждают наши предположения.|The data confirm our assumptions.
+Большинство людей ищет счастья.|Most people seek happiness.
+Фильм был интересным и захватывающим.|The film was interesting and captivating.
+Они ведут разговор о будущем.|They are having a conversation about the future.
+Обучение — это ключ к успеху.|Education is the key to success.
+В классе сидит много детей.|Many children are sitting in the class.
+За минуту можно успеть многое.|In a minute, you can achieve a lot.
+Не всегда можно сразу сделать выводы.|You can't always draw conclusions immediately.
+Пока здесь светло, можно гулять.|While it's still light outside, you can walk.
+Полный уровень знаний достигнут.|A full level of knowledge is achieved.
+Собственный дом — мечта многих.|Having your own home is the dream of many.
+Любовь — это сильное чувство.|Love is a strong feeling.
+Читать книги полезно для развития.|Reading books is beneficial for development.
+Мы всё сделаем очень быстро.|We'll do everything very quickly.
+Посмотреть на закат солнца — удивительно.|Watching the sunset is amazing.
+Речь о важности образования.|The speech is about the importance of education.
+Мы сидели рядом и разговаривали.|We sat next to each other and talked.
+Немного времени осталось до встречи.|There's a little time left until the meeting.
+Мало знают, как трудно вести компанию.|Few know how challenging it is to run a company.
+Книга, в которой я нашла этот рецепт, лежит у меня на полке уже много лет.|The book in which I found this recipe has been on my shelf for many years.
+Я пришла раньше, чтобы помочь тебе с подготовкой к празднику.|I came earlier to help you prepare for the holiday.
+Она всегда знала, что делать в случае непредвиденных обстоятельств.|She always knew what to do in case of unforeseen circumstances.
+В жизни над нами часто висят неожиданные трудности.|In life, unexpected difficulties often hang over us.
+Общий интерес к искусству сблизил их.|A shared interest in art brought them closer.
+На столе лежал важный документ.|There was an important document on the table.
+Учитель сообщил нам о том, что экзамен перенесен на следующую неделю.|The teacher informed us that the exam has been postponed to next week.
+Без правильного знания истории трудно понимать современный мир.|Without proper knowledge of history, it's difficult to understand the modern world.
+Он предложил небольшой подарок в знак благодарности.|He offered a small gift as a token of gratitude.
+Я смотрю на эту гору и понимаю, что жизнь — это преодоление препятствий.|I look at this mountain and realize that life is about overcoming obstacles.
+Далее в программе будет доклад о современных технологиях.|Up next in the program is a report about modern technologies.
+Он самый умный в нашей группе.|He is the smartest in our group.
+Мне кажется, он даже не понимает всей серьезности этой проблемы.|I think he doesn't even grasp the seriousness of this problem.
+Мы нуждаемся в более детальной информации.|We need more detailed information.
+Здесь, прямо перед моими глазами, он сделал это.|Right here, in front of my eyes, he did it.
+Чтобы достичь желаемого результата, ей пришлось работать без выходных.|To achieve the desired result, she had to work without weekends.
+На этой улице всегда много народу.|There are always a lot of people on this street.
+С точки зрения науки, это выглядит весьма интересно.|From a scientific perspective, this looks quite interesting.
+Моя куртка готова, а твоя еще на стенде.|My jacket is ready, while yours is still on the hanger.
+Наши интересы сходятся во многом.|Our interests align in many ways.
+Путешествовать необходимо с открытым умом.|Traveling is necessary with an open mind.
+Он определил ключевые моменты проблемы.|He identified the key points of the problem.
+Наверное, это был лучший день в моей жизни.|Perhaps, it was the best day of my life.
+У дома росло огромное дерево.|There was a huge tree growing by the house.
+Эта фирма занимается производством электроники.|This company is engaged in electronics manufacturing.
+Что ж, от такого результата я не ожидал.|Well, I wasn't expecting such a result.
+Это решение зависит только от тебя.|This decision depends solely on you.
+Являться на работу вовремя — залог успешного дня.|Being on time for work is the key to a successful day.
+Животные, как и люди, чувствуют себя комфортно на земле.|Animals, like people, feel comfortable on the ground.
+Всякий раз, когда я слышу эту песню, я вспоминаю молодость.|Every time I hear this song, I reminisce about my youth.
