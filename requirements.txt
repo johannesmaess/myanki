@@ -1,2 +1,12 @@
-openai
+# conda create --name langapp python=3.9
+# conda activate langapp
+# pip install -r requirements.txt
+
+transformers
+torch
+torchvision
+torchaudio
+nltk
+datrie
+# openai
 
